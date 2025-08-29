@@ -42,3 +42,4 @@ print((" ".join(texto_lista[::-1])))
 resultado = {True: "Si",False:"No"}
 print(f'La palabra "python" aparece en el texto? {resultado["python" in texto.lower()]}')
 ```
+[Analizador de Texto](https://github.com/LuisfeOro/Mi-Portafolio-Python/blob/main/81-Proyecto3-Analizador-texto.py)
