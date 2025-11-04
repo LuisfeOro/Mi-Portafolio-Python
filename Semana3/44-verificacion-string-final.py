@@ -1,0 +1,4 @@
+texto = "Cultivo una rosa blanca en junio como en enero para el amigo sincero que me da su mano franca. Y para el cruel que me arranca el corazón con que vivo, cardos ni ortigas cultivo, cultivo una rosa blanca"
+print(texto[-1])
+#-1 busca el valor del indice final, sin contar nada
+
