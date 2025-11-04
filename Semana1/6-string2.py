@@ -1,0 +1,1 @@
+print("Linea1\nLinea2\nLinea3")
